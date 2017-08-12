@@ -5,7 +5,13 @@ import java.util.Set;
 
 import com.mkyong.rest.MessageRestService;
 
-public class MessageApplication {
+/**
+ * 
+ * 
+ * @author syam
+ *
+ */
+public class MessageApplication{
 	private Set<Object> singletons=new HashSet<Object>(); 
 
 	public MessageApplication() {
