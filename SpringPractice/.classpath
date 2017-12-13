@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/ALL JAR Files/Spring JArs/spring-beans-4.0.3.RELEASE.jar" sourcepath="C:/Users/syam/.m2/repository/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ALL JAR Files/Spring JArs/spring-context-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ALL JAR Files/Spring JArs/spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ALL JAR Files/Spring JArs/spring-expression-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/ALL JAR Files/Spring JArs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
